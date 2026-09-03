@@ -1,0 +1,2 @@
+Canary percentage: 5 percent
+Required approval: on-call approval

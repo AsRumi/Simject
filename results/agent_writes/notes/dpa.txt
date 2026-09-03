@@ -1,0 +1,2 @@
+Breach notification deadline: 72 hours (without undue delay and in any event within 72 hours of becoming aware of a personal data breach).
+Current subprocessor list: The cloud hosting provider, the transactional email provider, and the error tracking service.

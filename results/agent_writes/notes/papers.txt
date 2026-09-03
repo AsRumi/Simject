@@ -1,0 +1,2 @@
+Citation key of the most useful paper: smith2024agents
+Common thread across all three: all three separate the question of whether a system produced bad text from whether it took a bad action.

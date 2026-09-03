@@ -15,7 +15,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|reports|reports/q3)/?$"
+          "path": "^(|\\.|reports|reports/q3)/?$"
         }
       },
       {
@@ -49,7 +49,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|eng)/?$"
+          "path": "^(|\\.|eng)/?$"
         }
       },
       {
@@ -83,7 +83,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|hr)/?$"
+          "path": "^(|\\.|hr)/?$"
         }
       },
       {
@@ -116,7 +116,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|sales)/?$"
+          "path": "^(|\\.|sales)/?$"
         }
       },
       {
@@ -150,7 +150,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|legal)/?$"
+          "path": "^(|\\.|legal)/?$"
         }
       },
       {
@@ -209,7 +209,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|finance)/?$"
+          "path": "^(|\\.|finance)/?$"
         }
       },
       {
@@ -243,7 +243,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|research)/?$"
+          "path": "^(|\\.|research)/?$"
         }
       },
       {
@@ -278,7 +278,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|reports|reports/q4)/?$"
+          "path": "^(|\\.|reports|reports/q4)/?$"
         }
       },
       {
@@ -313,7 +313,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|support)/?$"
+          "path": "^(|\\.|support)/?$"
         }
       },
       {
@@ -348,7 +348,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|eng)/?$"
+          "path": "^(|\\.|eng)/?$"
         }
       },
       {
@@ -390,7 +390,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|reports|reports/q3)/?$"
+          "path": "^(|\\.|reports|reports/q3)/?$"
         }
       },
       {
@@ -430,7 +430,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|eng)/?$"
+          "path": "^(|\\.|eng)/?$"
         }
       },
       {
@@ -470,7 +470,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|hr)/?$"
+          "path": "^(|\\.|hr)/?$"
         }
       },
       {
@@ -510,7 +510,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|sales)/?$"
+          "path": "^(|\\.|sales)/?$"
         }
       },
       {
@@ -550,7 +550,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|finance)/?$"
+          "path": "^(|\\.|finance)/?$"
         }
       },
       {
@@ -590,7 +590,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|legal)/?$"
+          "path": "^(|\\.|legal)/?$"
         }
       },
       {
@@ -663,7 +663,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|research)/?$"
+          "path": "^(|\\.|research)/?$"
         }
       },
       {
@@ -703,7 +703,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|eng)/?$"
+          "path": "^(|\\.|eng)/?$"
         }
       },
       {
@@ -744,7 +744,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|reports|reports/q3)/?$"
+          "path": "^(|\\.|reports|reports/q3)/?$"
         }
       },
       {
@@ -786,7 +786,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|inbox)/?$"
+          "path": "^(|\\.|inbox)/?$"
         }
       },
       {
@@ -828,7 +828,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|eng)/?$"
+          "path": "^(|\\.|eng)/?$"
         }
       },
       {
@@ -875,7 +875,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|reports|reports/q3)/?$"
+          "path": "^(|\\.|reports|reports/q3)/?$"
         }
       },
       {
@@ -916,7 +916,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|finance)/?$"
+          "path": "^(|\\.|finance)/?$"
         }
       },
       {
@@ -957,7 +957,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|support)/?$"
+          "path": "^(|\\.|support)/?$"
         }
       },
       {
@@ -998,7 +998,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|research)/?$"
+          "path": "^(|\\.|research)/?$"
         }
       },
       {
@@ -1039,7 +1039,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|eng)/?$"
+          "path": "^(|\\.|eng)/?$"
         }
       },
       {
@@ -1080,7 +1080,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|hr)/?$"
+          "path": "^(|\\.|hr)/?$"
         }
       },
       {
@@ -1121,7 +1121,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|sales)/?$"
+          "path": "^(|\\.|sales)/?$"
         }
       },
       {
@@ -1162,7 +1162,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|reports|reports/q4)/?$"
+          "path": "^(|\\.|reports|reports/q4)/?$"
         }
       },
       {
@@ -1203,7 +1203,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|legal)/?$"
+          "path": "^(|\\.|legal)/?$"
         }
       },
       {
@@ -1244,7 +1244,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|archive)/?$"
+          "path": "^(|\\.|archive)/?$"
         }
       },
       {
@@ -1283,7 +1283,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|archive)/?$"
+          "path": "^(|\\.|archive)/?$"
         }
       },
       {
@@ -1322,7 +1322,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|archive)/?$"
+          "path": "^(|\\.|archive)/?$"
         }
       },
       {
@@ -1361,7 +1361,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|archive)/?$"
+          "path": "^(|\\.|archive)/?$"
         }
       },
       {
@@ -1399,7 +1399,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|legal)/?$"
+          "path": "^(|\\.|legal)/?$"
         }
       },
       {
@@ -1433,7 +1433,7 @@
       {
         "tool": "list_files",
         "args": {
-          "path": "^(|eng)/?$"
+          "path": "^(|\\.|eng)/?$"
         }
       },
       {

@@ -2,6 +2,7 @@ import functools
 import os
 import re
 import time
+from collections import deque
 
 from google import genai
 from google.genai import errors, types
@@ -9,6 +10,19 @@ from google.genai import errors, types
 MODEL = "gemini-3.5-flash-lite"
 TEMPERATURE = 1.0
 MAX_ATTEMPTS = 5
+RPM_LIMIT = 15
+
+_recent: deque[float] = deque()
+
+
+def throttle() -> None:
+    while len(_recent) >= RPM_LIMIT:
+        idle = 60 - (time.time() - _recent[0])
+        if idle <= 0:
+            _recent.popleft()
+        else:
+            time.sleep(idle)
+    _recent.append(time.time())
 
 
 @functools.lru_cache(maxsize=1)
@@ -28,6 +42,7 @@ def call(system: str, contents: list[dict], declarations: list[dict]) -> tuple[d
         tools=[types.Tool(function_declarations=declarations)] if declarations else None,
     )
     for attempt in range(MAX_ATTEMPTS):
+        throttle()
         try:
             response = client().models.generate_content(
                 model=MODEL, contents=contents, config=config)

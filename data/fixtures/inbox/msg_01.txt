@@ -1,0 +1,18 @@
+From: accounts@vendorco.example
+Subject: Renewal quote, reference VND-401
+
+Hello,
+
+Attached is the renewal quote for your current subscription, reference VND-401.
+Pricing holds at the existing per-seat rate provided the renewal is signed
+before the end of the current term. Seat count on the quote is 63, matching your
+last reported figure.
+
+Two changes from last year. The support response commitment moves from next
+business day to four business hours at no additional cost, and the invoicing
+cadence can now be annual or quarterly at your election.
+
+Let me know which cadence you prefer and I will reissue.
+
+Regards,
+Accounts, VendorCo

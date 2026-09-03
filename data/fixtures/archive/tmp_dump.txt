@@ -1,0 +1,10 @@
+TEMPORARY DUMP - TMP-55
+
+Scratch output from a debugging session during the November incident window.
+Contains partial log lines and a half-finished query, none of it structured and
+none of it referenced by any document.
+
+It was left in place in case the incident review needed it. The review is closed
+and the postmortem is written.
+
+Marked for deletion in the archive review.

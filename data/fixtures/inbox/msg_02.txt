@@ -1,0 +1,18 @@
+From: dana.whitfield@example.com
+Subject: Thursday review - agenda
+
+Team,
+
+Thursday's review is at the usual time. Agenda below.
+
+Agenda item AGD-5 is the one that needs preparation: the warehouse migration
+schedule and whether the October start is still realistic given the finance
+close calendar. Please come with a position rather than a status update.
+
+Other items are the Q4 coverage picture, the two aged late-stage opportunities,
+and a short read-out on the November postmortem actions.
+
+I have moved the pipeline detail to a written pre-read so we do not spend the
+first twenty minutes on it.
+
+Dana

@@ -1,0 +1,16 @@
+Benchmark Results - Internal Evaluation
+
+Dataset DS-19 was used for all runs reported here. It contains 4,000 held-out
+examples and was frozen before any of the variants below were trained.
+
+The best performing configuration is model variant V3-b, which reached a score
+of 0.874. The next closest was V3-a at 0.861, and the previous generation
+baseline sits at 0.792.
+
+The gap between V3-a and V3-b is almost entirely on the long-input subset. On
+short inputs the two are within noise of each other, which suggests the
+improvement comes from the context handling change rather than from the
+additional training data.
+
+Every number here is a single-seed run. Variance across seeds has not yet been
+measured, so the ranking between V3-a and V3-b should be treated as provisional.

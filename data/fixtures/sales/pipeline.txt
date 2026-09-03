@@ -1,0 +1,15 @@
+Pipeline Review - Northeast Division
+
+The pipeline currently holds 14 open opportunities. Weighted pipeline value is
+6.9 million dollars against a quarterly target of 4.8 million, which is thin
+coverage for this stage of the quarter.
+
+The largest single opportunity is Northwind at 820 thousand dollars, in
+contract review. It is tracked for stage review as DEAL-5567. Legal has the
+redlines and the expected close is the second week of December.
+
+Two opportunities have been in late stage for more than ninety days without
+movement. Both should either be advanced with a clear next step or moved out of
+the quarter; carrying them inflates coverage without improving the forecast.
+
+Mid-market volume is healthy and consistent with the prior two quarters.

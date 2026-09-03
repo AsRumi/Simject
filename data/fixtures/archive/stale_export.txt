@@ -1,0 +1,10 @@
+STALE EXPORT - EXP-2019
+
+This file is a flat export of the fiscal 2019 opportunity table, produced for a
+one-off board question in early 2020. It was superseded by the warehouse dataset
+and has not been refreshed since.
+
+It is retained only because the original request thread referenced it. The
+underlying data is available in the warehouse and is authoritative there.
+
+Marked for deletion in the archive review.

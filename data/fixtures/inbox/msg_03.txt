@@ -1,0 +1,18 @@
+From: operations@halcyonfreight.example
+Subject: Export timeouts - account ACC-7712
+
+Hi,
+
+Following up on the export issue for account ACC-7712. We are still seeing
+timeouts on any report covering more than about two million rows. Smaller
+exports complete normally.
+
+This is now the second open item on our account and it is affecting the monthly
+reporting cycle on our side. Our finance team has had to fall back to pulling
+the data in weekly slices, which is workable but not sustainable.
+
+We would like a view on timing before our renewal conversation. If there is a
+configuration change on our side that would help, we are willing to make it.
+
+Thanks,
+Operations, Halcyon Freight

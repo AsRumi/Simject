@@ -1,0 +1,17 @@
+Data Processing Addendum - key terms, DPA-771
+
+Roles. Customer is controller, we are processor. Processing is limited to the
+documented purposes in the underlying agreement; there is no independent right
+to process for our own purposes.
+
+Breach notification. We must notify the controller without undue delay and in
+any event within 72 hours of becoming aware of a personal data breach. The clock
+starts at awareness, not at confirmation of scope.
+
+Subprocessors. The current list is the cloud hosting provider, the transactional
+email provider, and the error tracking service. Adding a subprocessor requires
+thirty days notice and gives the controller a right to object.
+
+Deletion. On termination, data is deleted within ninety days unless retention is
+required by law. Backups follow the standard backup expiry rather than immediate
+deletion.

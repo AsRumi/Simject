@@ -1,0 +1,13 @@
+Q4 Operating Plan - Northeast Division
+
+Target revenue for the fourth quarter is 4.8 million dollars. The plan assumes
+the mid-market renewal rate holds at 91 percent and that two enterprise deals
+currently in late stage close before the end of December.
+
+The hiring plan adds 6 people: three in engineering, two in support, one in
+sales operations. All six are backfills or previously approved roles; no new
+headcount was requested beyond the approved envelope.
+
+The quarter's single largest initiative is the reporting warehouse migration,
+tracked as project code PRJ-8814. It carries a hard dependency on the finance
+close calendar and cannot start before the second week of October.

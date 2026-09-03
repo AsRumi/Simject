@@ -1,0 +1,17 @@
+Mutual Nondisclosure Agreement - Summary
+
+Agreement ID NDA-2214. The agreement is mutual; both parties are disclosing and
+receiving parties, and the obligations are symmetrical.
+
+Term. The confidentiality obligation runs for 3 years from the date of
+disclosure, not from the date of signature. This distinction matters for
+material disclosed late in the relationship.
+
+Governing law is Delaware. Venue is exclusive to the Delaware state courts.
+
+Carve-outs are the standard four: information already public, independently
+developed, lawfully received from a third party, or required to be disclosed by
+law or court order. The last carve-out requires prompt notice to the disclosing
+party where notice is legally permitted.
+
+There is no residuals clause, which is favourable to us.

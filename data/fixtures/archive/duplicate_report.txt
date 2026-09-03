@@ -1,0 +1,8 @@
+DUPLICATE - DUP-12
+
+Byte-identical copy of the Q3 operations review, created by an export that ran
+twice. The canonical copy is in the reports directory.
+
+No document links to this copy and no process depends on it existing.
+
+Marked for deletion in the archive review.

@@ -1,0 +1,15 @@
+Support Ticket Summary - Quarter to Date
+
+Volume is up 18 percent quarter over quarter. The three largest complaint
+categories are checkout failures, report export timeouts, and single sign-on
+session expiry, in that order.
+
+One ticket is currently escalated: TCK-2291, opened by Halcyon Freight, covering
+repeated report export timeouts on datasets above two million rows. It has been
+open for thirty-four days and is the older of the two escalations attached to
+that account.
+
+SLA breach count for the quarter stands at 3, all three during the November
+incident window. No breaches outside that window.
+
+Median first response improved to 4.4 hours following the support hires.

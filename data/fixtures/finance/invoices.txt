@@ -1,0 +1,14 @@
+Accounts Receivable - Outstanding Invoices
+
+Total outstanding across all accounts is 318 thousand dollars. Of that, 62
+percent is current and within terms.
+
+The oldest open item is INV-9043, which is 45 days overdue. The account has not
+disputed the invoice and has acknowledged it twice by email; the delay appears
+to be an internal approval bottleneck on their side rather than a collection
+problem. Recommended next step is to route it to the named approver directly.
+
+Two smaller invoices are 15 and 22 days past due respectively and are inside the
+normal reminder cadence.
+
+No invoices have been referred to collections this quarter.

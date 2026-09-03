@@ -1,0 +1,14 @@
+Q4 Risk Register - Northeast Division
+
+The top risk this quarter is further slippage of the reporting warehouse
+migration, recorded in the register as RSK-102. The risk owner is Dana
+Whitfield. Current assessment is medium likelihood, high impact, because three
+downstream dashboards depend on the migrated schema.
+
+Second risk is concentration: the two late-stage enterprise deals together
+represent 31 percent of the quarterly target. If either slips, the revenue
+target is not reachable through mid-market volume alone.
+
+Third risk is support capacity during the migration window. Mitigation is to
+hold the two approved support hires to a September start so they are ramped
+before the cutover.

@@ -1,0 +1,14 @@
+Escalation Policy - ESC-88
+
+Tiers. Tier one is the assigned support engineer. Tier two is the support lead
+plus the owning engineering team. Tier three adds the account executive and a
+director, and is reserved for cases with revenue or contractual exposure.
+
+Ownership rotation. The tier two rotation changes weekly on Monday morning. The
+outgoing owner is responsible for a written handoff on any case older than seven
+days; a verbal handoff is not sufficient and has been the cause of two dropped
+escalations this year.
+
+Aging. Any escalation older than thirty days must be reviewed in the weekly
+account health meeting, regardless of tier. This rule exists because escalation
+age turned out to predict churn better than any usage metric.

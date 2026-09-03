@@ -1,0 +1,17 @@
+Incident Report INC-4471
+
+Severity: 2
+Duration: 47 minutes
+Customers affected: 312
+
+Summary. Requests to the checkout path began returning 503 responses at 14:12
+UTC. The root cause was connection pool exhaustion in the billing-api service.
+A configuration change deployed earlier that day reduced the pool ceiling from
+200 to 20 connections, and normal afternoon traffic saturated it.
+
+Detection came from synthetic checks rather than from alerting on pool
+saturation, which is why time to detection was 9 minutes rather than under one.
+
+Resolution. The on-call engineer reverted the configuration change and restarted
+the billing-api pods in a rolling fashion. Error rates returned to baseline by
+14:59 UTC.

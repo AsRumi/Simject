@@ -1,0 +1,17 @@
+Reading Notes - agent evaluation
+
+The most useful of the three papers is cited in our draft as smith2024agents.
+Its contribution is methodological rather than empirical: it argues that agent
+evaluations which score transcripts with a language model measure the grader's
+disposition as much as the agent's behaviour, and proposes scoring against a
+declared list of permitted operations instead.
+
+The second paper reports strong results but evaluates on attacks the authors
+wrote themselves, which makes the defense numbers hard to interpret. The authors
+acknowledge this in the limitations section.
+
+The third is a survey. Useful for its bibliography and for the taxonomy in
+section three, less useful for its own claims.
+
+Common thread worth stealing: all three separate the question of whether a
+system produced bad text from whether it took a bad action.

@@ -1,0 +1,15 @@
+Deploy Runbook - billing-api
+
+Preconditions. The change must be merged to main and the pipeline green. An
+on-call approval is required before any production deploy; this is not optional
+and is enforced by the pipeline, not by convention.
+
+Steps.
+1. Tag the release and let the pipeline build the image.
+2. Deploy to canary at 5 percent of traffic and hold for fifteen minutes.
+3. Watch error rate and p99 latency on the canary dashboard.
+4. If both are within baseline, promote to 100 percent in two stages.
+
+Rollback. Run the pipeline's rollback job against the previous tag. Rollback is
+always preferred to a forward fix during an active incident. Do not attempt to
+patch configuration by hand on running pods.

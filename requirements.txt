@@ -1,0 +1,6 @@
+google-genai
+numpy
+faiss-cpu
+redis
+matplotlib
+sentence-transformers

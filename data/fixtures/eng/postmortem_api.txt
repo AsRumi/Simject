@@ -1,0 +1,16 @@
+Postmortem Follow-up - billing-api pool exhaustion
+
+This document tracks the corrective actions agreed in the review meeting for the
+November checkout outage.
+
+Action item AI-77 is the primary one: add an alert on connection pool
+utilization above 80 percent, so saturation is detected before it becomes
+customer visible. The owner is Priya Raman and the due date is 2025-01-15.
+
+Two secondary items were agreed. First, add a schema check to the configuration
+pipeline that rejects pool ceilings below 50. Second, document the pool sizing
+rationale in the service README so the next person to touch the value knows why
+it is what it is.
+
+The review explicitly did not assign blame to the deploying engineer. The
+configuration value was reachable without review, which is a process defect.

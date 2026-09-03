@@ -1,0 +1,16 @@
+New Hire Onboarding Checklist
+
+Before day one. The hiring manager submits badge request form FRM-19 at least
+five business days ahead, and confirms that the laptop order shows as shipped.
+
+Day one. Complete the identity verification appointment, collect the badge, and
+sign the standard acknowledgements. The new hire's buddy assignment is made by
+the hiring manager and should be someone outside the new hire's direct reporting
+line, so questions feel low stakes.
+
+First week. Access to the four core systems, a walkthrough of the on-call
+rotation even for non-engineering roles, and a scheduled thirty-minute meeting
+with a stakeholder from a partner team.
+
+First month. A written thirty-day check-in covering what is unclear, what is
+blocked, and whether the role matches what was described in the interview.
